@@ -3191,11 +3191,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brunorodrigo/Documents/TrabalhoFinal-Back-Front/biblioteca REST/BibliotecaREST/BibliotecaREST.csproj",
+      "projectUniqueName": "/Users/brunorodrigo/TrabalhoFinal-Backend-frontend/biblioteca REST/BibliotecaREST/BibliotecaREST.csproj",
       "projectName": "BibliotecaREST",
-      "projectPath": "/Users/brunorodrigo/Documents/TrabalhoFinal-Back-Front/biblioteca REST/BibliotecaREST/BibliotecaREST.csproj",
+      "projectPath": "/Users/brunorodrigo/TrabalhoFinal-Backend-frontend/biblioteca REST/BibliotecaREST/BibliotecaREST.csproj",
       "packagesPath": "/Users/brunorodrigo/.nuget/packages/",
-      "outputPath": "/Users/brunorodrigo/Documents/TrabalhoFinal-Back-Front/biblioteca REST/BibliotecaREST/obj/",
+      "outputPath": "/Users/brunorodrigo/TrabalhoFinal-Backend-frontend/biblioteca REST/BibliotecaREST/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/brunorodrigo/.nuget/NuGet/NuGet.Config"
